@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="" target="_blank">
+    <a href="https://snapgram-n001dykn4-prikol769.vercel.app/" target="_blank">
       <img src="https://github.com/adrianhajdin/social_media_app/assets/151519281/be514a19-3cbb-48b7-9acd-2cf4d2e319c4" alt="Project Banner">
     </a>
   <br />
@@ -16,7 +16,7 @@
   <h3 align="center">A Social Media Application</h3>
 
    <div align="center">
-     <a href="" target="_blank"></a>
+     <a href="https://snapgram-n001dykn4-prikol769.vercel.app/" target="_blank">https://snapgram-n001dykn4-prikol769.vercel.app</a>
     </div>
 </div>
 
